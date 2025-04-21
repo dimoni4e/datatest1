@@ -5,24 +5,24 @@ datapackage:
   created: 2024-01-01
   updated: 2024-01-31
   licenses:
-  - path: http://opendatacommons.org/licenses/pddl/
-    title: Open Data Commons Public Domain Dedication and License v1.0
+    - path: http://opendatacommons.org/licenses/pddl/
+      title: Open Data Commons Public Domain Dedication and License v1.0
   sources:
-  - path: http://link.to/data/source
-    title: Link to data source
+    - path: http://link.to/data/source
+      title: Link to data source
   resources:
-  - name: c02-per-decade
-    title: C02 PPM per decade
-    description: C02 PPM per decade
-    lastModified: 2024-01-15
-    path: data.csv
+    - name: c02-per-decade
+      title: C02 PPM per decade
+      description: C02 PPM per decade
+      lastModified: 2024-01-15
+      path: data.csv
 ---
 
-Welcome to the body of your dataset site. Everything above this section is part of the Data package front matter. 
+Welcome to the body of your dataset site. Everything above this section is part of the Data package front matter.
 
 # Overview
 
-Here is a quick overview of the template structure:
+Here is a quick overview of the template structure: this is a test changes
 
 ![[Overview.png]]
 
@@ -37,7 +37,7 @@ Here is a quick overview of the template structure:
       Data-Package-Frontmatter-->Data-Previews;
 ```
 
-Feel free to customize the data package frontmatter accordingly when publishing your own data. 
+Feel free to customize the data package frontmatter accordingly when publishing your own data.
 
 ## Unstructured data
 
@@ -60,4 +60,3 @@ const ExampleCode = () => {
 ```
 
 ## To read more about how this works, refer to the [docs page](docs).
-
